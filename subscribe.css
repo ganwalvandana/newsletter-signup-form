@@ -50,6 +50,9 @@ button{
     border: none;
 }
 
-/* @media screen  and max-width: 600px{
-    
-} */
+@media screen  and (max-width: 1200px){
+    #container{
+        width: 60%;
+        margin: 10% 10%;
+    }
+}
